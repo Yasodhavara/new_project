@@ -32,7 +32,7 @@ class MyHomePage extends StatelessWidget {
       child: Scaffold(
         body: Container(
           height: 100,
-          color: Colors.purple,
+          color: Colors.yellow,
           child: const Text('Welcome to new app some text',style: TextStyle(fontSize: 30,fontWeight: FontWeight.w900),),
         ),
       ),
